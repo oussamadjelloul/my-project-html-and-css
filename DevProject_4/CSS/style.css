@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+ 
+ 
+ body {
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     background:rgba(23, 23, 219, 0.856);
+ }
+header{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+ ul {
+    text-align: center;
+ }
+ header ul li a {
+    text-decoration-line: none;
+    color: #FFF;
+    font-family:  Helvetica;
+ }
+ li {
+    padding:20px;
+    display: inline;
+}
+.discord {
+    font-size: 20px;
+    padding-right: 200px;
+}
+.discord a {
+    font-family:'Anton', sans-serif;
+    letter-spacing: 5px;
+    font-size: 30px;
+    color: white;
+}
+.login {
+    padding-left: 100px;
+}
+.box  {
+    margin:70px 20px 0px 350px;
+    width:600px;
+    height: 200px;
+    font-size: 16px;
+}
+h1 {
+    padding-left: 20px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-weight: bold;
+} 
+p {
+    margin-top: -30px;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    font-size: 15px;
+}
+div a {
+    text-decoration-line: none;
+}
+.download {
+    font-size: 30px;
+    color:white;
+    height: 40px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    padding:4px 0px 0px 10px;
+    margin-left:350px;
+}
+.open {
+
+    font-size: 20px;
+    color:white;    
+    height: 40px;
+    width: 270px;
+    background-color: white;
+    border-radius: 20px;
+    padding:10px 0px 0px 10px;
+    margin-left:670px;
+    margin-top:-47px;
+
+}
+.image1 img {
+
+    height:30% ;
+    width: 40%;
+    float: left;
+   
+}
+.image2 img {
+    height:30% ;
+    width: 40%;
+   float: right;
+   margin-top: -80px;
+  
+}
+

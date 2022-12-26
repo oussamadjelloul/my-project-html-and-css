@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background:url(../Images/carl-raw-m3hn2Kn5Bns-unsplash.jpg);
+    font-family:helvetica;
+}
+img {
+    border-radius: 100%;
+}
+h1 {
+    color:white;
+    text-align: center;
+}
+p {
+    color: center;
+    font-size:18px;
+    color: white;
+}
+input {
+    border:0px;
+    padding: 10px;
+    font-size:18px;
+}
+input[type="submit"]{
+    background:#ff0000;
+    color: rgba(255,255,255,.9);   
+    width: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px red;
+}

@@ -1,0 +1,65 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+body {
+    background:	rgb(247,247,247);
+}
+.text{
+    float: left;
+    margin:200px 0px 0px 150px;
+    padding:50px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 500px;
+    width: 650px;
+    max-width: 500;
+}
+input  {
+    width:350px;
+    height: 15px;
+    display: block;
+    padding:20px;
+    margin:  auto ;
+    border-radius: 6px;
+    border-color: rgba(0,0,0,.2);
+}
+input[type="email"] {
+    margin-top:30px   ;
+}
+.email {
+    background:rgba(255, 255, 255,.9);
+    float:right;
+    width: 450px;
+    height: 500px;
+    margin:160px 250px 0px 0px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px lightgray;
+}
+.email .se   {
+   
+    color:white;
+    background:steelblue;
+    border-radius:5px;
+    height:50px ;
+    width:350px;
+    font-size: 30px;
+    margin:50px 0px 0px 50px;
+}
+.email p {
+    margin:15px 0px 0px 70px;
+}
+.email a {
+    font-size:18px;
+    text-decoration: none;
+    margin:70px 0px 0px 140px;
+}
+.email .creat {
+    color:white;
+    background:rgb(65, 184, 35);
+    border-radius:5px;
+    height:50px ;
+    width:300px;
+    font-size: 20px;
+    margin:50px 0px 0px 70px;
+}
